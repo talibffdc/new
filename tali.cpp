@@ -8,7 +8,7 @@ int main()
     int b=78;
     int c=58;
 
-    if(a> 
+    if(a>b) 
     {
         if(a>c)
         {
